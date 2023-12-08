@@ -12,6 +12,9 @@ function App() {
         <p>
           여기서 내가 코드를 수정하면..?
         </p>
+        <p>
+          하나 더 추가하면..?
+        </p>
         <a
           className="App-link"
           href="https://reactjs.org"
