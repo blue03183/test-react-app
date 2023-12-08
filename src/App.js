@@ -9,6 +9,9 @@ function App() {
         <p>
           HELLOW WORLD! I'm a React App and I was changed on the feature branch!
         </p>
+        <p>
+          여기서 내가 코드를 수정하면..?
+        </p>
         <a
           className="App-link"
           href="https://reactjs.org"
